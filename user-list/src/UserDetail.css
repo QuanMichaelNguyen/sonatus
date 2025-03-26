@@ -1,0 +1,20 @@
+.user-details {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: white;
+    padding: 20px;
+    border: 1px solid #ccc;
+    text-align: left;
+  }
+  
+  .close-btn {
+    float: right;
+    cursor: pointer;
+    border: none;
+    background: red;
+    color: white;
+    padding: 5px 10px;
+  }
+  
